@@ -1,1 +1,1 @@
-# Farming_Contracts with openzeppelin
+# Farming Smart Contracts with openzeppelin
